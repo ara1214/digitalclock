@@ -15,15 +15,15 @@
 /* 時計の共通スタイル */
 .clock {
   font-family: 'Share Tech Mono', monospace;
-  color: #EAD9FF;
-  text-shadow: 0 0 20px #DCC2FF;
+  color: #8EB8FF;
+  text-shadow: 0 0 20px #D7EEFF;
   line-height: 1.2;
   text-align: center;
 }
 
 /* 日付のスタイル */
 .clock-date {
-  font-size: 25px;
+  font-size: 40px;
 }
 
 /* 時間のスタイル */
